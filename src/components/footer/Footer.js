@@ -5,7 +5,7 @@ const date = new Date();
 const year = date.getFullYear();
 
 const Footer = () => {
-  return <div className={styles.footer}>Đồ Án 1 - Website bán Laptop</div>;
+  return <div className={styles.footer}> PROJECT 1</div>;
 };
 
 export default Footer;

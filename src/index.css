@@ -422,9 +422,9 @@ p {
 
 a {
   font-size: 1.4rem;
-  /* color: var(--dark-blue); */
+  color: var(--dark-blue);
   text-decoration: none;
-
+  transition: all 0.2s;
 }
 
 a:hover {
