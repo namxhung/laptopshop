@@ -1,3 +1,24 @@
+# Đồ án Website Thương mại Điện tử
+Đây là dự án Website Thương mại Điện tử được thực hiện nhằm tạo ra một nền tảng trực tuyến để mua bán các sản phẩm và dịch vụ. Dự án được xây dựng bằng sử dụng các công nghệ web hiện đại và có thể được triển khai trên GitHub.
+
+# Chức năng chính
+Đăng nhập và đăng ký tài khoản: Người dùng có thể tạo tài khoản mới hoặc đăng nhập vào tài khoản hiện có để thực hiện các hoạt động mua bán trên website. 
+Tìm kiếm sản phẩm: Người dùng có thể tìm kiếm sản phẩm theo từ khóa, danh mục, hoặc các tiêu chí khác để tìm được sản phẩm mong muốn.
+Xem chi tiết sản phẩm: Người dùng có thể xem thông tin chi tiết, hình ảnh, giá cả và đánh giá của sản phẩm trước khi quyết định mua hàng.
+Thêm vào giỏ hàng: Người dùng có thể thêm sản phẩm vào giỏ hàng để tiến hành thanh toán sau này.
+Thanh toán và đặt hàng: Người dùng có thể chọn phương thức thanh toán và đặt hàng sau khi kiểm tra thông tin giỏ hàng.
+Quản lý đơn hàng: Người dùng có thể xem trạng thái đơn hàng, lịch sử mua hàng và cập nhật thông tin giao hàng.
+
+# Công nghệ sử dụng
+Dự án được xây dựng bằng sử dụng các công nghệ sau:
+Ngôn ngữ lập trình chính: JavaScript
+Cơ sở dữ liệu: Firebase Storage
+Thư viện UI: ReactJS
+Trình xác thực thanh toán: Stripe
+
+# Triển khai
+Dự án có thể được triển khai trên GitHub bằng cách sao chép mã nguồn từ repository và cài đặt các dependencies cần thiết. Chi tiết hướng dẫn triển khai và cấu hình sẽ được cung cấp trong tài liệu dự án.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
