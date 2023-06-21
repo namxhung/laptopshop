@@ -1,5 +1,5 @@
 # Đồ án Website Thương mại Điện tử
-Đây là dự án Website Thương mại Điện tử được thực hiện nhằm tạo ra một nền tảng trực tuyến để mua bán các sản phẩm và dịch vụ. Dự án được xây dựng bằng sử dụng các công nghệ web hiện đại và có thể được triển khai trên GitHub.
+Đây là dự án Website Thương mại Điện tử được thực hiện nhằm tạo ra một nền tảng trực tuyến để mua bán các sản phẩm và dịch vụ. Dự án được xây dựng bằng sử dụng các công nghệ web hiện đại và có thể được triển khai 
 
 # Chức năng chính
 Đăng nhập và đăng ký tài khoản: Người dùng có thể tạo tài khoản mới hoặc đăng nhập vào tài khoản hiện có để thực hiện các hoạt động mua bán trên website. 
